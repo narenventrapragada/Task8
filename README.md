@@ -5,7 +5,7 @@ This project contains a **Power BI dashboard** and **presentation insights (PPT)
 ## 📂 Project Structure
 - **Dashboard Screenshot** – A Power BI dashboard showing KPIs, charts, and filters.  
 - **Sales_Analysis_Insights.pptx** – A PowerPoint file with insights and recommendations.  
-- **Dataset (if shared)** – Order-level data with sales, cost, discount, and delivery details.  
+- **US_Regional_Sales_Data.csv** – Order-level data with sales, cost, discount, and delivery details.  
 
 ## 📝 Dataset Overview
 The dataset includes:  
